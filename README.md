@@ -1,8 +1,6 @@
 ### Hi there, I'm Shritam 👋
 
-## I'm a Developer, Learner and Teacher!
-
-- 🔭 I’m a passonate Data Engineer and Machine Learner!
+- 🔭 I’m a passonate Data Science Engineer and a Machine Learner!
 - 🌱 I’m currently learning everything 🤣
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 💬 Actively writing blogs [Check it Out!](https://medium.com/@shritam)
